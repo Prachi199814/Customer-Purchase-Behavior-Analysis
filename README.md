@@ -1,1 +1,1 @@
-# Customer-Purchase-Behavior-Analysis is a project done to analyse the Customer data as to gain insight about the Customer like what kind of products they are purchasing, which Customer is more frequent, so as to make more effective business decision.
+#
